@@ -36,10 +36,33 @@ It is important to note that by distributing this software, I aim to **raise awa
 ---
 
 ## Usage
+⚠ Important Notice
+This repository contains a precompiled executable file (.exe). Please note the following before using it:
+1. Direct Clone & Use
+You can download and use this project by simply running:
+```bash
+git clone https://github.com/brgkdm/ZitroForge.git
+``` 
+2. VirusTotal Scan Report
+The file has been scanned on VirusTotal, and you can check the results here:
 
-1. **Download the Software**: After downloading the `.exe` file, run it on your machine.
-2. **Simulate Fake Code Generation**: Click the button to generate a random "Zitro" code.
-3. **Copy the Link**: Click to copy the generated code to the clipboard (note that this is fake and does not grant real Discord Nitro).
+- [VirusTotal Scan Report](https://www.virustotal.com/gui/file/60dbfb7ffcfc07f99007c3431c25b1b39dd694f72de6bcffa345310015830d1c)
+
+3. Antivirus Warnings
+Some antivirus programs may flag the executable as unverified because it is not digitally signed.
+This does not necessarily mean the file is harmful, but always proceed with caution.
+
+4. Safety Measures
+If you have concerns, you can run the file in a virtual machine or scan it with multiple antivirus engines (e.g., VirusTotal).
+Ensure you trust the source before executing .exe files.
+By using this software, you acknowledge the potential warnings from security programs and agree to use it at your own discretion.
+
+
+And..
+
+5. **Download the Software**: After downloading the `.exe` file, run it on your machine.
+6. **Simulate Fake Code Generation**: Click the button to generate a random "Zitro" code.
+7. **Copy the Link**: Click to copy the generated code to the clipboard (note that this is fake and does not grant real Discord Nitro).
 
 ---
 
