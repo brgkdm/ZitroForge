@@ -38,6 +38,7 @@ It is important to note that by distributing this software, I aim to **raise awa
 ## Usage
 ⚠ Important Notice
 This repository contains a precompiled executable file (.exe). Please note the following before using it:
+
 1. Direct Clone & Use
 You can download and use this project by simply running:
 ```bash
@@ -57,6 +58,7 @@ If you have concerns, you can run the file in a virtual machine or scan it with 
 Ensure you trust the source before executing .exe files.
 By using this software, you acknowledge the potential warnings from security programs and agree to use it at your own discretion.
 
+Alternatively, you can try downloading it from [here.](https://github.com/brgkdm/ZitroForge/releases/tag/v0.0.1)
 
 And..
 
